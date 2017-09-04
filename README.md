@@ -18,7 +18,7 @@ This software implements the proposed adaptive Optimal Reciprocal Collision Avoi
 
 •	Start MATLAB on MS Windows XP or later (the software has been tested on MATLAB 8.1.0.604 (R2016a) on a PC with specifications: Intel (R) Core (TM) i5-2500K CPU @ 3.30 GHz, 8.0 GB RAM,64-bit). 
 
-•	Set path of MATLAB to <.\code>.
+•	Unzip code.zip and set path of MATLAB to <.\code>.
 
 •	Run <.\code\main_once.m>.
 
