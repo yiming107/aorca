@@ -1,8 +1,11 @@
 # aorca
 
 ACTIVE VISUAL TRACKING IN MULTI-AGENT SCENARIOS 
+
 Yiming Wang and Andrea Cavallaro 
+
 Date: 29 August 2017
+
 Requested citation acknowledgement when using this software: 
 
 Yiming Wang and Andrea Cavallaro, "Active visual tracking in multi-agent scenarios", Proceedings of the 14th IEEE International Conference on Advanced Video and Signal-based Surveillance, Lecce Puglia, August 2017.
@@ -29,8 +32,10 @@ o	TrajCamInitPET.m is for Scenario IV. TrajCamInitPET_T.m provides a visualisati
 •	MakeVideo.m generates a video using the figures that are generated over time, and save the video file to a folder named as \RawVideo.
 •	ChangeCamSetting.m quickly changes the settings for a mobile camera including the car length, the view range and view angle.
 •	Detailed documentation of each script/function is provided inside each file.
+
 3.	License
 This software is provided under the terms and conditions of the creative commons public license. Please refer to the file <License.doc> for more information.
+
 4.	Contact
 If you have any queries, please contact yiming.wang@qmul.ac.uk OR wangyimingkaren@gmail.com
 
